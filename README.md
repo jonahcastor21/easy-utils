@@ -1,4 +1,5 @@
 # easy-utils
-An easier way to use the Linux command line.
+An easier way to use the Linux command line
 
-Copy all files in the zip file to /bin
+To install, copy all binaries in the zip file to /bin exept the text file that explains the commands.
+The goal of this project was to make the command line easier to use.
