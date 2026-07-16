@@ -1,0 +1,13 @@
+list = ls
+change-ownership = chmod
+take-ownership = chown
+copy = cp
+check-filesystem = fsck
+change-shell = chsh
+format-disk = fdisk
+murder = kill
+move = mv
+delete = rm
+delete-dir = rmdir
+make-dir = mkdir
+mkswap = make-swap
